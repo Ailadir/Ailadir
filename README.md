@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?ailadir&label=PROFILE+VIEWS)
-
 <div align = "center">
 <h3>About me</h3>
 <hr>
@@ -45,3 +43,4 @@ Hello, I'm Araz Schwarz. I'm from Russia, but right now living in Türkiye. I'm 
         </a>
     </p>
 </details>
+![](https://komarev.com/ghpvc/?ailadir&label=PROFILE+VIEWS)
