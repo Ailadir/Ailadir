@@ -27,7 +27,19 @@ Hello, I'm Araz Schwarz. I'm from Russia, but right now living in Türkiye. I'm 
 <details align ="left">
 <summary><h2><samp>&#9776; More</samp></h2></summary>
     <p align="center"
-    <br>
-    <a href="https://github.com/Ailadir"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ailadir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/"></a>
+        <br>
+        <a href="https://github.com/Ailadir"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ailadir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/"></a>
+        <br>
+        <p>Find me on:</p>
+        <!--Linkedin-->
+        <a href="https://www.linkedin.com/in/dmdschwarz/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        <!--Facebook-->
+        </a>
+        <a href="https://www.facebook.com/DMD.Schwarz" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
+        </a>
+        <!--Gmail-->
+        <a href="mailto:dmd.schwarz@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        
     </p>
 </details>
