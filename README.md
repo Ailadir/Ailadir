@@ -43,4 +43,4 @@ Hello, I'm Araz Schwarz. I'm from Russia, but right now living in Türkiye. I'm 
         </a>
     </p>
 </details>
-[Profile Views](https://komarev.com/ghpvc/?ailadir&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?Ailadir)
