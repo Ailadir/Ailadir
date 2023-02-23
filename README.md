@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center>### About me</p>
+<div align="center>
+### About me
+</div>
 
 Hello, I'm Araz Schwarz. I'm from Russia, but right now living in Türkiye. I'm former prosthodontic dentist with clinical experience about 5 years. Recently I started out learning Python, HTML, CSS and currently learning JavaScript with help of "The Odin Project" and other resources.
 
@@ -21,8 +23,8 @@ Hello, I'm Araz Schwarz. I'm from Russia, but right now living in Türkiye. I'm 
 
 ### My skills
 
-<p align="center">
-### My skills
 <hr>
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,html,css,py" />
 </p>
