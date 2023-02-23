@@ -38,7 +38,10 @@ Hello, I'm Araz Schwarz. I'm from Russia, but right now living in Türkiye. I'm 
         <a href="https://www.facebook.com/DMD.Schwarz" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
         </a>
         <!--Gmail-->
-        <a href="mailto:dmd.schwarz@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        <a href="mailto:dmd.schwarz@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+    </p>
+    <p align="right">
+    ![Profile views](https://gpvc.arturio.dev/Ailadir)
     </p>
 </details>
