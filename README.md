@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" alt = "Trust_me" width= 100% height = 25% src = "https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif">
+<img align="center" alt = "Trust_me" width= "100%" height = "25%" src = "https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif">
 
 <p style="text-align:center" font-size="25px">
  About me
