@@ -42,6 +42,6 @@ Hello, I'm Araz Schwarz. I'm from Russia, but right now living in Türkiye. I'm 
         </a>
     </p>
     <p align="right">
-    ![Profile views](https://gpvc.arturio.dev/Ailadir)
+    ![Profile views](https://gpvc.arturio.dev/Ailadir?v=3)
     </p>
 </details>
