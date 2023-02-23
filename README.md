@@ -25,6 +25,6 @@ Hello, I'm Araz Schwarz. I'm from Russia, but right now living in Türkiye. I'm 
 <img src="https://skillicons.dev/icons?i=git,html,css,py" />
 </div>
 <div align ="left">
-<summary><h3>More</h3></summary>
+<summary><samp>&#9776; More</samp><</summary>
 <a href="https://github.com/Ailadir"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ailadir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/"></a>
 </div>
