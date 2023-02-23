@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--About me -->
 <div align = "center">
 <h3>About me</h3>
 <hr>
@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 Hello, I'm Araz Schwarz. I'm from Russia, but right now living in Türkiye. I'm former prosthodontic dentist with clinical experience about 5 years. Recently I started out learning Python, HTML, CSS and currently learning JavaScript with help of "The Odin Project" and other resources.
 <br>
 
+<!--MySKills-->
 <h3>My skills</h3>
 <hr>
 
-<img src="https://skillicons.dev/icons?i=git,html,css,py" />
+<img src="https://skillicons.dev/icons?i=git,html,css,regex,py" />
 </div>
 <details align ="left">
 <summary><h2><samp>&#9776; More</samp></h2></summary>
