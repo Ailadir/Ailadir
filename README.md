@@ -41,7 +41,5 @@ Hello, I'm Araz Schwarz. I'm from Russia, but right now living in Türkiye. I'm 
         <a href="mailto:dmd.schwarz@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
     </p>
-    <p align="right">
-    ![Profile views](https://gpvc.arturio.dev/Ailadir)
-    </p>
+![Profile views](https://gpvc.arturio.dev/Ailadir)
 </details>
