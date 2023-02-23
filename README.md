@@ -21,4 +21,6 @@ Hello, I'm Araz Schwarz. I'm from Russia, but right now living in Türkiye. I'm 
 
 ### My skills
 
-<img align="center" src="https://skillicons.dev/icons?i=git,html,css,py" />
+<div align="center>
+<img src="https://skillicons.dev/icons?i=git,html,css,py" />
+</div>
