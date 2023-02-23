@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 <!--
 **Ailadir/Ailadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,4 +45,3 @@ Hello, I'm Araz Schwarz. I'm from Russia, but right now living in Türkiye. I'm 
         </a>
     </p>
 </details>
-![](https://komarev.com/ghpvc/?Ailadir)
