@@ -12,21 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" alt = "Trust_me" width= "100%" height = "25%" src = "https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif">
-
 <p style="text-align:center" font-size="25px">
  About me
-</p>
+
 <hr>
 Hello, I'm Araz Schwarz. I'm from Russia, but right now living in Türkiye. I'm former prosthodontic dentist with clinical experience about 5 years. Recently I started out learning Python, HTML, CSS and currently learning JavaScript with help of "The Odin Project" and other resources.
 
 <div align="center">   <a href="https://github.com/Ailadir">   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ailadir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/"></a></div>
 
-<p style="text-align:center">
- My skills
-</p>
+My skills
+
 <hr>
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=git,html,css,py" />
 </p>
