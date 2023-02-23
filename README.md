@@ -12,22 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align = "center">
-    About me
-</h3>
+<div align = "center">
+<h3>About me</h3>
 <hr>
 
 Hello, I'm Araz Schwarz. I'm from Russia, but right now living in Türkiye. I'm former prosthodontic dentist with clinical experience about 5 years. Recently I started out learning Python, HTML, CSS and currently learning JavaScript with help of "The Odin Project" and other resources.
 <br>
 
-<h3 align = "center">
-    My skills
-</h3>
+<h3>My skills</h3>
 <hr>
 
 <img src="https://skillicons.dev/icons?i=git,html,css,py" />
-
-<div align ="center">
+</div>
+<div align ="left">
 <h3>More</h3>
-<a align ="center" href="https://github.com/Ailadir"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ailadir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/"></a>
+<a href="https://github.com/Ailadir"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ailadir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/"></a>
 </div>
