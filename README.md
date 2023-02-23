@@ -26,7 +26,8 @@ Hello, I'm Araz Schwarz. I'm from Russia, but right now living in Türkiye. I'm 
 </div>
 <details align ="left">
 <summary><h2><samp>&#9776; More</samp></h2></summary>
-    <p align="center>
-    <br><a href="https://github.com/Ailadir"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ailadir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/"></a>
+    <p align="center"
+    <br>
+    <a href="https://github.com/Ailadir"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ailadir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/"></a>
     </p>
 </details>
