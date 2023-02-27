@@ -23,6 +23,7 @@ Hello, I'm Araz Schwarz. I was born in Russia and right now living in Türkiye. 
 <br>
 I love anime, reading books, runing and workout.
 <br>
+Almost all my time I spending in learning something new (in past had almost 30+ courses in dentistry) or having time with my family.
 <div align = "center">
 <!--MySKills-->
 <h3>My skills</h3>
