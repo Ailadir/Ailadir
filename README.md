@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 <div align = "center">
 <h3>About me</h3>
 <hr>
-
+</div>
 Hello, I'm Araz Schwarz. I was born in Russia and right now living in Türkiye. I'm former prosthodontic dentist with clinical experience more than 5 years. Recently I started out learning Python, HTML, CSS and currently learning JavaScript with help of "The Odin Project" and other resources.
+<br>
 I love anime, reading books, runing and workout.
 <br>
-
+<div align = "center">
 <!--MySKills-->
 <h3>My skills</h3>
 <hr>
