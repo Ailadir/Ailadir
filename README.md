@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <h3>About me</h3>
 <hr>
 
-Hello, I'm Araz Schwarz. I'm from Russia, but right now living in Türkiye. I'm former prosthodontic dentist with clinical experience about 5 years. Recently I started out learning Python, HTML, CSS and currently learning JavaScript with help of "The Odin Project" and other resources.
+Hello, I'm Araz Schwarz. I was born in Russia and right now living in Türkiye. I'm former prosthodontic dentist with clinical experience more than 5 years. Recently I started out learning Python, HTML, CSS and currently learning JavaScript with help of "The Odin Project" and other resources.
+I love anime, reading books, runing and workout.
 <br>
 
 <!--MySKills-->
