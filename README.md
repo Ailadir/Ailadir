@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?Ailadir)
+<!-- ![](https://komarev.com/ghpvc/?Ailadir) -->
+![Visitor Count](https://profile-counter.glitch.me/{Ailadir}/count.svg)
 
 <!--
 **Ailadir/Ailadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
