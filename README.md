@@ -21,6 +21,7 @@ Almost all my time I spending in learning something new (in past had almost 30+ 
 <summary><h2><samp>&#9776; More</samp></h2></summary>
     <p align="center"
         <br>
+    ![Ailadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ailadir&show_icons=true&theme=transparent)
         <a href="https://github.com/Ailadir"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ailadir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/"></a>
         <br>
         <p>Find me on:</p>
