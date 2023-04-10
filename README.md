@@ -28,14 +28,8 @@ Almost all my time I spending in learning something new (in past had almost 30+ 
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ailadir&show_icons=true" />
 </picture>
-<details align ="left">
-![Ailadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ailadir&show_icons=true&theme=transparent)
-<summary><h2><samp>&#9776; More</samp></h2></summary>
-    <p align="center"
-        <br>
+<p align="center"
 
-        <a href="https://github.com/Ailadir"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ailadir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/"></a>
-        <br>
         <p>Find me on:</p>
         <!--Linkedin-->
         <a href="https://www.linkedin.com/in/dmdschwarz/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
@@ -48,4 +42,3 @@ Almost all my time I spending in learning something new (in past had almost 30+ 
         </a>
     </p>
 
-</details>
