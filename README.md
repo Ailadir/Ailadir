@@ -28,7 +28,7 @@ Almost all my time I spending in learning something new (in past had almost 30+ 
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ailadir&show_icons=true" />
 </picture>
-<p align="center"
+<p align="center">
 
         <p>Find me on:</p>
         <!--Linkedin-->
