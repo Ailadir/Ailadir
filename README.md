@@ -17,6 +17,17 @@ Almost all my time I spending in learning something new (in past had almost 30+ 
 
 <img src="https://skillicons.dev/icons?i=git,html,css,js,jest,py" />
 </div>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=ailadir&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ailadir&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=ailadir&show_icons=true" />
+</picture>
 <details align ="left">
 ![Ailadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ailadir&show_icons=true&theme=transparent)
 <summary><h2><samp>&#9776; More</samp></h2></summary>
