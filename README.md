@@ -28,17 +28,19 @@ Almost all my time I spending in learning something new (in past had almost 30+ 
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ailadir&show_icons=true" />
 </picture>
+<hr>
 <p align="center">
+<p>Find me on:</p>
+  <!--Linkedin-->
+  <a href="https://www.linkedin.com/in/dmdschwarz/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+    </a>
 
-        <p>Find me on:</p>
-        <!--Linkedin-->
-        <a href="https://www.linkedin.com/in/dmdschwarz/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        <!--Facebook-->
-        </a>
-        <a href="https://www.facebook.com/DMD.Schwarz" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
-        </a>
-        <!--Gmail-->
-        <a href="mailto:dmd.schwarz@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-    </p>
+  <!--Facebook-->
+  <a href="https://www.facebook.com/DMD.Schwarz" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
+  </a>
+  
+  <!--Gmail-->
+  <a href="mailto:dmd.schwarz@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
 
