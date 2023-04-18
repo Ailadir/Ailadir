@@ -19,7 +19,7 @@ Almost all my time I spending in learning something new (in past had almost 30+ 
 </div>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=ailadir&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ailadir&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
