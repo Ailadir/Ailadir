@@ -10,7 +10,6 @@ Hello, I'm Araz Schwarz. I was born in Russia and right now living in Türkiye. 
 I love anime, reading books, runing and workout.
 <br>
 Almost all my time I spending in learning something new (in past had almost 30+ courses in dentistry) or having time with my family.
-[My Skills](https://skillicons.dev/icons?i=linux,git,github,html,sass,js,react,jest,figma,webpack,vite,eslint,visualstudio,stackoverflow&theme=light)](https://skillicons.dev)
 
 <div align = "center">
 
