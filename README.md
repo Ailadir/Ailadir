@@ -15,7 +15,7 @@ Almost all my time I spending in learning something new (in past had almost 30+ 
 <h3>My skills</h3>
 <hr>
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,html,css,js,jest,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,html,sass,js,jest,figma,npm,webpack,vite,eslint&theme=light" />
 </div>
 <picture>
 <source 
