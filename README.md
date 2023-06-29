@@ -16,7 +16,7 @@ Almost all my time I spending in learning something new (in past had almost 30+ 
 <!--MySKills-->
 <h3>My skills</h3>
 <hr>
-<img src="https://skillicons.dev/icons?i=linux,git,github,html,sass,js,react,jest,figma,webpack,vite,eslint,visualstudio,stackoverflow&theme=light" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,html,sass,js,react,jest,figma,webpack,vite,visualstudio,stackoverflow&theme=light" />
 </div>
 <picture>
 <source 
