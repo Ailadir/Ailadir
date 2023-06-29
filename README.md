@@ -1,4 +1,4 @@
-            ![](https://komarev.com/ghpvc/?username=Ailadir&style=plastic)
+                                                                                                                                                                                                            ![](https://komarev.com/ghpvc/?username=Ailadir&style=plastic)
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-username) -->
 
 <div align = "center">
@@ -14,7 +14,7 @@ Almost all my time I spending in learning something new (in past had almost 30+ 
 <!--MySKills-->
 <h3>My skills</h3>
 <hr>
-
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,html,sass,js,react,jest,figma,webpack,vite,eslint,visualstudio,stackoverflow&theme=light)](https://skillicons.dev)
 <img src="https://skillicons.dev/icons?i=linux,git,github,html,sass,js,react,jest,figma,webpack,vite,eslint,visualstudio,stackoverflow&theme=light" />
 </div>
 <picture>
