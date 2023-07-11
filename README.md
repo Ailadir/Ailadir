@@ -1,5 +1,4 @@
-                                                                                                                                                                                                           <!--  ![](https://komarev.com/ghpvc/?username=Ailadir&style=plastic)-->
-<!-- ![](https://komarev.com/ghpvc/?username=your-github-username) -->
+
 
 <div align = "center">
 <h3>About me</h3>
