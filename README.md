@@ -52,9 +52,6 @@
   <!--Linkedin-->
   <a href="https://www.linkedin.com/in/dmdschwarz/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
     </a>
-  <!--Facebook-->
-  <a href="https://www.facebook.com/DMD.Schwarz" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
-  </a>
   <!--Gmail-->
   <a href="mailto:dmd.schwarz@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
   </a>
