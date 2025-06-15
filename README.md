@@ -34,14 +34,6 @@
   <li>In my free time, I study <strong>Go</strong> and <strong>Lua</strong>, and work on DIY projects using <strong>Raspberry Pi</strong> (e.g., home server, automated plant watering, etc.).</li>
   <li>I’m passionate about soldering <strong>split keyboards</strong> and automating home systems.</li>
 </ul>
-<!--MySKills-->
-<h3>My skills</h3>
-<hr>
-<p align="center">
-    <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,git,github,html,sass,js,react,jest,figma,webpack,vite,visualstudio,stackoverflow&theme=light" />
-        </a>
-</p>
 
 <!--<picture>
 <source 
