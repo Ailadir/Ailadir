@@ -4,6 +4,12 @@
 </p>
 
 <p>
+  <strong>My landing</strong><br>
+  <a href="https://www.arazschwarz.dev/" target="_blank">https://www.arazschwarz.dev/<a/>
+</p>
+
+
+<p>
   <strong>Preferred communication:</strong><br>
   <a href="https://t.me/Ailadir" target="_blank">https://t.me/Ailadir</a>
 </p>
