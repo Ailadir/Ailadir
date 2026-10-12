@@ -1,6 +1,6 @@
 <h2>Senior Frontend Engineer</h2>
 <p>
-  5+ years shipping production web apps with <strong>React</strong> and <strong>Next.js</strong>, plus the range to own features end to end: <strong>Go/gRPC</strong> backends and <strong>Flutter</strong> mobile. I care about <strong>performance</strong>, <strong>modular architecture (FSD)</strong>, <strong>design systems</strong>, and clean, maintainable code.
+  5+ years shipping production web apps with <strong>React</strong> and <strong>Next.js</strong>, plus the range to own features end to end: <strong>Go/gRPC</strong> backends and <strong>Flutter</strong> mobile.
 </p>
 <p>
   <strong>My landing</strong><br>
