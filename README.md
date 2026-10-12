@@ -13,7 +13,7 @@
 <hr>
 <h3>💼 What I've built</h3>
 <ul>
-  <li><strong>Happy Delivery</strong> (current): primary frontend developer. Migrated client-server communication from REST to ConnectRPC/gRPC, built a bank integration through a standalone Go gateway, shipped an inventory CRM module on Next.js 16 / React 19, and self-hosted a customized corporate LMS (Docker, MariaDB).</li>
+  <li><strong>Happy Delivery</strong> (current): full-stack developer. Migrated client-server communication from REST to ConnectRPC/gRPC, built a bank integration through a standalone Go gateway, shipped an inventory CRM module on Next.js 16 / React 19, and self-hosted a customized corporate LMS (Docker, MariaDB).</li>
   <li><strong>Kidgu.ru</strong>: solo-built a two-sided marketplace from scratch. 40+ component TypeScript design system (FSD), PageSpeed 99/100, payments, maps, real-time chat over WebSocket.</li>
   <li><strong>SuperJob</strong>: launched the students.superjob.ru MVP (500k+ students, 300+ universities). Ad modules I built grew ad revenue 10x.</li>
 </ul>
