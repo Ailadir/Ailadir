@@ -40,4 +40,3 @@
   <li>Based in Turkey (UTC+3). English fluent, Russian native.</li>
   <li>Terminal person: <strong>Arch Linux</strong>, <strong>Neovim</strong>, lazygit. In my free time I work on DIY projects with <strong>Raspberry Pi</strong> (home server, automated plant watering) and solder <strong>split keyboards</strong>.</li>
 </ul>
-<p>Find me
