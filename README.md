@@ -1,6 +1,6 @@
-<h2>Frontend Developer</h2>
+<h2>Senior Frontend Engineer</h2>
 <p>
-  4 years of experience building web applications with <strong>React</strong> and <strong>Next.js</strong>. I specialize in <strong>performance optimization</strong>, <strong>modular architecture (FSD)</strong>, <strong>design systems</strong>, and <strong>backend integration</strong>. I write clean and maintainable code, following <strong>SOLID</strong>, <strong>DRY</strong>, and <strong>KISS</strong> principles.
+  5+ years shipping production web apps with <strong>React</strong> and <strong>Next.js</strong>, plus the range to own features end to end: <strong>Go/gRPC</strong> backends and <strong>Flutter</strong> mobile. I care about <strong>performance</strong>, <strong>modular architecture (FSD)</strong>, <strong>design systems</strong>, and clean, maintainable code.
 </p>
 <p>
   <strong>My landing</strong><br>
@@ -11,28 +11,33 @@
   <a href="https://t.me/Ailadir" target="_blank">https://t.me/Ailadir</a>
 </p>
 <hr>
+<h3>💼 What I've built</h3>
+<ul>
+  <li><strong>Happy Delivery</strong> (current): primary frontend developer. Migrated client-server communication from REST to ConnectRPC/gRPC, built a bank integration through a standalone Go gateway, shipped an inventory CRM module on Next.js 16 / React 19, and self-hosted a customized corporate LMS (Docker, MariaDB).</li>
+  <li><strong>Kidgu.ru</strong>: solo-built a two-sided marketplace from scratch. 40+ component TypeScript design system (FSD), PageSpeed 99/100, payments, maps, real-time chat over WebSocket.</li>
+  <li><strong>SuperJob</strong>: launched the students.superjob.ru MVP (500k+ students, 300+ universities). Ad modules I built grew ad revenue 10x.</li>
+</ul>
+<hr>
 <h3>🛠️ Technologies and Tools</h3>
 <ul>
-  <li><strong>Languages and Frameworks:</strong> JavaScript (ES6+), TypeScript, React 18, Next.js (App Router, Pages Router, SSR, Server Components), HTML5, CSS3, SCSS</li>
+  <li><strong>Languages and Frameworks:</strong> TypeScript, JavaScript (ES6+), React 19, Next.js 16 (App Router, Pages Router, SSR, Server Components), Vue/Nuxt, HTML5, CSS3, SCSS, Tailwind</li>
   <li><strong>State Management:</strong> Zustand, Redux (Thunk, Saga), TanStack Query</li>
   <li><strong>Forms:</strong> TanStack Form, React Hook Form</li>
+  <li><strong>Backend:</strong> Go, gRPC / ConnectRPC, REST API, WebSocket, PostgreSQL, MariaDB</li>
+  <li><strong>Mobile:</strong> Flutter / Dart</li>
   <li><strong>Architectures and Principles:</strong> FSD, SOLID, DRY, KISS, YAGNI</li>
   <li><strong>Testing:</strong> Jest, React Testing Library, Playwright, Cypress</li>
   <li><strong>UI Libraries:</strong> Material UI, Ant Design, Bootstrap</li>
   <li><strong>Build Tools and Bundlers:</strong> Webpack, Vite, rsBuild</li>
   <li><strong>Dev Tools:</strong> Git, GitHub, GitLab, Bitbucket, Husky, Prettier, ESLint, Stylelint</li>
-  <li><strong>CI/CD and Monitoring:</strong> Docker, GitHub Actions, Sentry, Grafana</li>
-  <li><strong>Other:</strong> i18n, Storybook, REST API, Figma, Jira, Confluence</li>
+  <li><strong>CI/CD and Monitoring:</strong> Docker, docker-compose, GitHub Actions, Sentry, Grafana</li>
+  <li><strong>Other:</strong> i18n, Storybook, Figma, Jira, Confluence</li>
 </ul>
 <hr>
 <h3>🧩 Additional Information</h3>
 <ul>
-  <li>Prior to transitioning into IT, I worked for over 5 years as a dentist, leading a medical team and mentoring colleagues.</li>
-  <li>In my free time, I study <strong>Go</strong> and <strong>Lua</strong>, and work on DIY projects using <strong>Raspberry Pi</strong> (e.g., home server, automated plant watering).</li>
-  <li>I'm passionate about soldering <strong>split keyboards</strong> and automating home systems.</li>
+  <li>Before software, I spent 5+ years as a dentist, leading a medical team and mentoring colleagues, and 3 years teaching at a university.</li>
+  <li>Based in Turkey (UTC+3). English fluent, Russian native.</li>
+  <li>Terminal person: <strong>Arch Linux</strong>, <strong>Neovim</strong>, lazygit. In my free time I work on DIY projects with <strong>Raspberry Pi</strong> (home server, automated plant watering) and solder <strong>split keyboards</strong>.</li>
 </ul>
-<p align="center">
-<p>Find me on:</p>
-  <a href="https://www.linkedin.com/in/dmdschwarz/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="mailto:dmd.schwarz@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-</p>
+<p>Find me
